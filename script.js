@@ -1,8 +1,8 @@
 const selectionButtons = document.querySelectorAll('[data-selection]');
 // const scoreSpan = document.querySelector('.score');
 const finalColumn = document.querySelector('[data-final-column]');
-const computerScoreSpan = document.querySelector('[data-your-score]');
-const yourScoreSpan = document.querySelector('[data-computer-score]');
+const computerScoreSpan = document.querySelector('[data-computer-score]');
+const yourScoreSpan = document.querySelector('[data-your-score]');
 const clearScoreButton = document.querySelector('.clear');
 const resultsEle = document.querySelector('.results');
 const SELECTIONS = [
